@@ -1,0 +1,9 @@
+APK OLUSTURMA (Android Studio gerekmez, ~10 dk)
+1) github.com'da ucretsiz hesap ac, sag ustten "New repository" -> adi: SesDegistirici -> Create.
+2) "uploading an existing file" linkine tikla. Bu zip'i ACIP icindeki TUM dosyalari
+   (.github klasoru dahil) surukle. Gizli .github klasoru gorunmuyorsa Windows'ta
+   Gorunum > Gizli ogeler'i ac. "Commit changes" tikla.
+3) Ustte "Actions" sekmesi -> "APK Olustur" calisir (yesil tik ~3-5 dk).
+4) Calisan satira tikla -> en altta "Artifacts" -> SesDegistirici-APK indir -> zip'ten app-debug.apk cikar.
+5) APK'yi telefona at, "bilinmeyen kaynaklardan kur" izni ver, kur.
+Kullanim: Uygulamayi ac, ses tipini sec, BASLAT. KULAKLIK tak.
